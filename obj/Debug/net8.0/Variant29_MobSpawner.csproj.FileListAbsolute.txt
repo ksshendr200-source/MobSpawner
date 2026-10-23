@@ -1,0 +1,14 @@
+C:\Users\fluff\Downloads\Variant29_MobSpawner\bin\Debug\net8.0\Variant29_MobSpawner.exe
+C:\Users\fluff\Downloads\Variant29_MobSpawner\bin\Debug\net8.0\Variant29_MobSpawner.deps.json
+C:\Users\fluff\Downloads\Variant29_MobSpawner\bin\Debug\net8.0\Variant29_MobSpawner.runtimeconfig.json
+C:\Users\fluff\Downloads\Variant29_MobSpawner\bin\Debug\net8.0\Variant29_MobSpawner.dll
+C:\Users\fluff\Downloads\Variant29_MobSpawner\bin\Debug\net8.0\Variant29_MobSpawner.pdb
+C:\Users\fluff\Downloads\Variant29_MobSpawner\obj\Debug\net8.0\Variant29_MobSpawner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fluff\Downloads\Variant29_MobSpawner\obj\Debug\net8.0\Variant29_MobSpawner.AssemblyInfoInputs.cache
+C:\Users\fluff\Downloads\Variant29_MobSpawner\obj\Debug\net8.0\Variant29_MobSpawner.AssemblyInfo.cs
+C:\Users\fluff\Downloads\Variant29_MobSpawner\obj\Debug\net8.0\Variant29_MobSpawner.csproj.CoreCompileInputs.cache
+C:\Users\fluff\Downloads\Variant29_MobSpawner\obj\Debug\net8.0\Variant29_MobSpawner.dll
+C:\Users\fluff\Downloads\Variant29_MobSpawner\obj\Debug\net8.0\refint\Variant29_MobSpawner.dll
+C:\Users\fluff\Downloads\Variant29_MobSpawner\obj\Debug\net8.0\Variant29_MobSpawner.pdb
+C:\Users\fluff\Downloads\Variant29_MobSpawner\obj\Debug\net8.0\Variant29_MobSpawner.genruntimeconfig.cache
+C:\Users\fluff\Downloads\Variant29_MobSpawner\obj\Debug\net8.0\ref\Variant29_MobSpawner.dll
