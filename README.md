@@ -45,3 +45,14 @@ dotnet run
 
 ## Скриншот
 После запуска сделайте скриншот консоли и добавьте его, например, в `docs/console-output.png`.
+
+## Запуск через GitHub Codespaces
+Откройте репозиторий на GitHub.
+Нажмите Code → Codespaces.
+Создайте Codespace для ветки main.
+Откройте терминал.
+Перейдите в каталог, содержащий ImageCacheManager.csproj, и выполните:
+
+dotnet run
+
+Для работы приложения требуется среда с установленным .NET 8 SDK.
